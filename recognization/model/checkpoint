@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnnnetwork_model.ckpt"
+all_model_checkpoint_paths: "cnnnetwork_model.ckpt"
